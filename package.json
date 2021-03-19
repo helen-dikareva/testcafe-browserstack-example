@@ -1,4 +1,4 @@
-.gitignore{
+{
   "name": "testcafe-browserstack-example",
   "version": "1.0.0",
   "description": "",
